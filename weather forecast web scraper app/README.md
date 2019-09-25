@@ -1,1 +1,1 @@
-create a web scraper for weather forecast (from ## https://forecast.weather.gov/) then write the days of the week & the temperatures (in your local city) to a CSV file that you can then open up in Excel.
+#### create a web scraper for weather forecast (from https://forecast.weather.gov/) then write the days of the week & the temperatures (in your local city) to a CSV file that you can then open up in Excel.
